@@ -3,8 +3,8 @@
 To install the project, run the following commands:
 
 ```bash
-git clone XXX
-cd wachtwoord_manager
+git clone https://github.com/wxhwys314/uitzendbureau.git
+cd uitzendbureau
 npm install
 
 #database
